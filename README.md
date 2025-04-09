@@ -25,3 +25,5 @@ This project implements and compares **three convolutional neural networks (CNNs
 - **Cross-Dataset Generalization Failed** (10-12% accuracy on MNIST digits).  
 
 **Conclusion:** Custom CNNs outperform ResNet18/LeNet5 on Fashion MNIST but remain sensitive to IIIF distortions. 
+
+**Acknowlegment:** I would like to express my sincere gratitude to Professor Valerio Basile, Professor Livio Bioglio, Professor Rossana Damiano, and Professor Attilio Fiandrotti for their invaluable guidance, support, and encouragement throughout the development of this project. Their expertise and insights have been essential to the success of this work.
